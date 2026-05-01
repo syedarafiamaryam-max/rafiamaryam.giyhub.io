@@ -63,7 +63,7 @@
 ## 🌐 Connect With Me
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/syeda-rafia-maryam-023527342/" target="_blank">
+  <a href="https://www.linkedin.com/in/syeda-rafia-maryam/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:syedarafiamaryam@gmail.com">
@@ -78,3 +78,4 @@
 </p>
 
 <p align="center">⚡ <i>"In a world where data is the new currency, those who protect it hold one of the most critical responsibilities in technology."</i></p>
+
